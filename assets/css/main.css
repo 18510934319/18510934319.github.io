@@ -4,15 +4,15 @@
 /* GENERAL STYLES
 /* ----------------------------------------------------- */
 body {
-  font-family: "Open Sans", sans-serif;
-  font-size: 13px;
+  font-family: "NSimSun", "Open Sans", sans-serif;
+  font-size: 14px;
   color: #7b7b7b;
   line-height: 1.6;
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 5px;
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: "NSimSun", "Roboto Condensed", sans-serif;
   color: #656565;
 }
 
@@ -338,7 +338,7 @@ footer .logo {
 }
 
 .slick-prev:before, .slick-next:before {
-  font-family: "fontawesome";
+  font-family: "NSimSun", "fontawesome";
   font-size: 20px;
   line-height: 1;
   color: white;
@@ -424,7 +424,7 @@ footer .logo {
   content: "•";
   width: 20px;
   height: 20px;
-  font-family: "fontawesome";
+  font-family: "NSimSun", "fontawesome";
   font-size: 6px;
   line-height: 20px;
   text-align: center;
@@ -469,10 +469,10 @@ footer .logo {
 }
 
 .navbar-brand {
-  padding: 12px 15px;
+  padding: 0px 0px;
 }
 .navbar-brand > img {
-  width: 100px;
+  width: 120px;
 }
 
 .navbar-toggle {
@@ -1521,7 +1521,7 @@ ul.social-icons li a i {
 }
 .breadcrumb.separator-arrow > li + li:before {
   padding: 0 8px;
-  font-family: "FontAwesome";
+  font-family: "NSimSun", "FontAwesome";
   content: '\f105';
 }
 
